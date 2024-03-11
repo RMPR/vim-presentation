@@ -1,0 +1,89 @@
+           ______            __
+          / ____/___  ____ _/ /____
+         / / __/ __ \/ __ `/ / ___/
+        / /_/ / /_/ / /_/ / (__  )
+        \____/\____/\__,_/_/____/
+
+        1. Enough Vim to not quit in frustration when dumped into it
+        2. A bit of keystrokes golfing for advanced users
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+slide 003
